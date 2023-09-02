@@ -1,11 +1,11 @@
-# CODSOFT Internship Tasks
+# [CodSoft Internship Tasks](https://www.linkedin.com/company/codsoft/mycompany/)  
 
 CODSOFT is a vibrant and diverse community that bringstogether individuals with similar objectives and ultimate goals.
 
 Company main focus is on creating opportunities that span variousareas, including leadership development, learning, student
 engagement, and fostering shared interests.
 
-## Internship:
+## Internship - SEPT BATCH A1:
 #### Python Programming Language (Python Developer)
 
 
