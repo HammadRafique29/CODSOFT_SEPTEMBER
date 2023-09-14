@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="img">
+    <file>__close_frame.png</file>
+    <file>__Create_Task.png</file>
+    <file>__max_frame.png</file>
+    <file>__min_frame.png</file>
+    <file>__View_Task.png</file>
+    <file>_DashBoard.png</file>
+    <file>capture.png</file>
+    <file>close_frame.png</file>
+    <file>Create_Task.png</file>
+    <file>DashBoard.png</file>
+    <file>max_frame.png</file>
+    <file>merged_image.png</file>
+    <file>min_frame.png</file>
+    <file>View_Task.png</file>
+  </qresource>
+</RCC>
