@@ -22,7 +22,10 @@ wide range of tasks, from web development and data analysis to artificial intell
  - #### To-Do-List
     An application is a useful project that helps users manage
     and organize their tasks efficiently. This project aims to create a
-    command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists
+    command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+
+   ![DashBoard](https://github.com/HammadRafique29/CODSOFT_SEPTEMBER/assets/112252001/ffaaf9c0-a246-4bd8-807d-daefaf837335)
+
 
  - #### Calculator
     Design a simple calculator with basic arithmetic operations.
